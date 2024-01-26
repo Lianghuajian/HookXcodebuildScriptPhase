@@ -3,3 +3,5 @@
 
 # Cocoapods
 Podfile.lock
+
+*.xcuserstate
